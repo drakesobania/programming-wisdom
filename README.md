@@ -10,6 +10,7 @@ Webpages must be
 3. **Respectful**
 4. **Educational**
 
+Opinions pieces are fine, but should be thoughtful and sufficiently explained.
 
 ## The List (by author)
 
