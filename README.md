@@ -8,3 +8,10 @@ Webpages must be
 2. **Language/platform/etc agnostic** with the exception of some somewhat ubiquitous things like regex and SQL
 2. **Timeless**
 3. **Respectful**
+
+
+## The List (by author)
+
+### Kanat-Alexander, Max
+
+* [What’s Wrong With Computers](http://www.codesimplicity.com/post/whats-wrong-with-computers/)
