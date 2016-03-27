@@ -30,3 +30,4 @@ Opinions pieces are fine, but should be thoughtful and sufficiently explained. A
 ### Spolsky, Joel
 
 * [The Law of Leaky Abstractions](http://joelonsoftware.com/articles/LeakyAbstractions.html)
+* [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
