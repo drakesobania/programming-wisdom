@@ -20,3 +20,7 @@ Webpages must be
 
 * [What Is Overengineering?](http://www.codesimplicity.com/post/what-is-overengineering/)
 * [What’s Wrong With Computers](http://www.codesimplicity.com/post/whats-wrong-with-computers/)
+
+### Spolsky, Joel
+
+* [The Law of Leaky Abstractions](http://joelonsoftware.com/articles/LeakyAbstractions.html)
