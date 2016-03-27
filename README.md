@@ -17,6 +17,10 @@ Webpages must be
 
 * [A Visual Explanation of SQL Joins](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
+### Gabriel, Richard
+
+* [The Rise of ``Worse is Better''](https://www.jwz.org/doc/worse-is-better.html)
+
 ### Kanat-Alexander, Max
 
 * [What Is Overengineering?](http://www.codesimplicity.com/post/what-is-overengineering/)
