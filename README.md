@@ -12,6 +12,10 @@ Webpages must be
 
 ## The List (by author)
 
+### Atwood, Jeff
+
+* [A Visual Explanation of SQL Joins](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+
 ### Kanat-Alexander, Max
 
 * [What Is Overengineering?](http://www.codesimplicity.com/post/what-is-overengineering/)
