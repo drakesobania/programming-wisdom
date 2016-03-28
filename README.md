@@ -27,6 +27,10 @@ Opinions pieces are fine, but should be thoughtful and sufficiently explained. A
 * [What Is Overengineering?](http://www.codesimplicity.com/post/what-is-overengineering/)
 * [What’s Wrong With Computers](http://www.codesimplicity.com/post/whats-wrong-with-computers/)
 
+### Sierra, Kathy
+
+* [The Smackdown Learning Model](http://headrush.typepad.com/creating_passionate_users/2005/08/the_smackdown_l.html)
+
 ### Spolsky, Joel
 
 * [The Law of Leaky Abstractions](http://joelonsoftware.com/articles/LeakyAbstractions.html)
