@@ -33,6 +33,7 @@ Opinions pieces are fine, but should be thoughtful and sufficiently explained. A
 
 ### Sierra, Kathy
 
+* [The myth of "keeping up"](http://headrush.typepad.com/creating_passionate_users/2006/04/the_myth_of_kee.html)
 * [The Smackdown Learning Model](http://headrush.typepad.com/creating_passionate_users/2005/08/the_smackdown_l.html)
 
 ### Spolsky, Joel
