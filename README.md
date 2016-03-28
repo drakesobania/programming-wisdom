@@ -10,7 +10,7 @@ Webpages must be
 3. **Respectful**
 4. **Educational**
 
-Opinions pieces are fine, but should be thoughtful and sufficiently explained. Also, opinions in these webpages are not necessarily those of contributors to this list or their respective employers.
+Opinions pieces are fine, but should be thoughtful and sufficiently explained. Also, opinions in these webpages are not necessarily those of contributors to this list or their respective employers. Put another way, additions to this list are not endorsements of any particular opinion.
 
 ## The List (by author)
 
