@@ -22,6 +22,10 @@ Opinions pieces are fine, but should be thoughtful and sufficiently explained. A
 
 * [The Rise of ``Worse is Better''](https://www.jwz.org/doc/worse-is-better.html)
 
+### Graham, Paul
+
+* [The Hundred-Year Language](http://www.paulgraham.com/hundred.html)
+
 ### Kanat-Alexander, Max
 
 * [What Is Overengineering?](http://www.codesimplicity.com/post/what-is-overengineering/)
