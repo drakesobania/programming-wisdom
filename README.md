@@ -1,5 +1,5 @@
 # programming-wisdom
-A list of blog posts and other webpages from wise programmers
+Programming wisdom from around the web.
 
 ## Rules
 Webpages must be 
@@ -17,7 +17,7 @@ Opinions pieces are fine, but should be thoughtful and sufficiently explained. A
 ### Atwood, Jeff
 
 * [A Visual Explanation of SQL Joins](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
-
+* [The First Rule of Programming: It's Always Your Fault](http://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/)
 ### Gabriel, Richard
 
 * [The Rise of ``Worse is Better''](https://www.jwz.org/doc/worse-is-better.html)
